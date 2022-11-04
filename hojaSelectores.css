@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+.parrafos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.conceptos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    background-color: #00bfff51;
+    text-indent: 30px;
+    
+}
+.titulos{
+    letter-spacing: 6mm;
+    text-transform: capitalize;
+    text-align: center;
+    color: #0a3192;
+}
+.subtitulos{
+    letter-spacing: 3mm;
+    text-transform: capitalize;
+    text-align: left;
+    color: #0845e0;
+}
+.definiciones{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(79, 2, 151);
+}
+.tablas{
+    border-collapse:separate;
+    margin: 25px;
+    font-size: 1em;
+    font-family: sans-serif;
+    min-width: 450px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.encabezado{
+    border: 1px;
+    border-color: #0845e0;
+    background-color: #051f898a; 
+    color: #000000; 
+    text-align: middle; 
+}
+.celdaUno{
+    border: 2px;
+    border-color: #0f08e0;
+    background-color: #2e58ff63; 
+    color: #000000; 
+    text-align: middle; 
+}
+.celdaDos{
+    border: 2px;
+    border-color: #0f08e0;
+    background-color: #3e94f643; 
+    color: #000000; 
+    text-align: middle; 
+}
