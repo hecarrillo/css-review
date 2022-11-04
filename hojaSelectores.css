@@ -31,30 +31,30 @@
 .tablas{
     border-collapse:separate;
     margin: 25px;
-    font-size: 1em;
-    font-family: sans-serif;
+    border: 3px solid #0845e0;
+    font-size: 15px;
     min-width: 450px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
-
 .encabezado{
-    border: 1px;
-    border-color: #0845e0;
     background-color: #051f898a; 
     color: #000000; 
-    text-align: middle; 
+    text-align: middle;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .celdaUno{
-    border: 2px;
-    border-color: #0f08e0;
     background-color: #2e58ff63; 
     color: #000000; 
-    text-align: middle; 
+    text-align: middle;
+    vertical-align: middle;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .celdaDos{
-    border: 2px;
-    border-color: #0f08e0;
     background-color: #3e94f643; 
     color: #000000; 
-    text-align: middle; 
+    text-align: middle;
+    padding: 5px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
